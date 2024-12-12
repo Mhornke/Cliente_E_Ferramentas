@@ -23,7 +23,7 @@ export function Header() {
     <nav className="bg-slate-50 border-gray-200 mb-15 relative">
       <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
         <Link href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-          <Image src="../logo.png" className="h-16" alt="logo" />
+          <Image src="./logo.png" className="h-16" alt="logo" />
           <span className="self-center text-3xl font-semibold whitespace-nowrap">
             E-Ferramentas
           </span>
